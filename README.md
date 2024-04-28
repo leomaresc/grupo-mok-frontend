@@ -1,7 +1,7 @@
 Requisitos previos
 Node.js y npm instaldos en el sistema. Puedes descargarlo desde [https://nodejs.org/en/donwload](https://nodejs.org/en/download/)
 
-Descargar e iniciar el codigo fuente con:
+Descargar e iniciar el codigo fuente a través de la terminal:
 
 git clone https://github.com/leomaresc/grupo-mok-frontend.git
 
